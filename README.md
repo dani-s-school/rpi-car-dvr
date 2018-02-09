@@ -1,6 +1,6 @@
 # The Raspberry Pi Car DVR Project
 
-## Raspberry Pi Car DVR Improvements
+## "A long way to go..."
 ### UX Improvements
 1. ***UX001*** - **Faster boot & shutdown times** - Preferably < 5s 
 2. ***UX002*** - **Automatic recording** - Automatically start recording after boot
