@@ -1,5 +1,5 @@
 # The Raspberry Pi Car DVR Project
-<span style="color:red">some **This is Red Bold.** text</span>
+
 ## Raspberry Pi Car DVR Improvements
 ### UX Improvements
 1. ***UX001*** - **Faster boot & shutdown times** - Preferably < 5s 
