@@ -12,4 +12,4 @@
 ### Hardware Improvements
 1. ***HD001*** - **Improve remote control** - Switch to wired keypad / improve remote responsiveness
 2. ***HD002*** - **Better hide cables** - Find a way to hide most / all of the cables
-
+3. ***HD003*** - **Keep track of time and date** - Use a RTC module to keep track of time and date without an active internet connection
