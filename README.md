@@ -2,8 +2,8 @@
 
 ## What's Next..
 ### UX Improvements
-1. ***UX001*** - **Faster boot & shutdown times** - Preferably < 5s 
-2. ***UX002*** - **Automatic recording** - Automatically start recording after boot
+1. **CLOSED** - ***UX001*** - **Faster boot & shutdown times** - Preferably < 5s 
+2. **CLOSED** - ***UX002*** - **Automatic recording** - Automatically start recording after boot
 
 ### Model Improvements 
 1. ***MD001*** - **Improve recordings naming model** - Put recordings in folder according to their date
